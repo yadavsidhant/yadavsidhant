@@ -39,7 +39,7 @@ Feel free to reach out if you'd like to discuss potential collaborations, share 
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/yadavsidhant)
+![Profile Views](https://komarev.com/ghpvc/?username=yadavsidhant&color=brightgreen)
 
 ## 🖥️ Tech Stack
 
@@ -54,7 +54,10 @@ Feel free to reach out if you'd like to discuss potential collaborations, share 
 
 ## 📊 GitHub Stats
 
-![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavsidhant&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsidhant&layout=compact&theme=radical)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yadavsidhant&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadavsidhant&show_icons=true&theme=radical" alt="Sidhant's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsidhant&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</div>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=yadavsidhant&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%" />
+</div>
