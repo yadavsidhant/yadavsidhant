@@ -39,4 +39,3 @@ Feel free to reach out if you'd like to discuss potential collaborations, share 
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/yadavsidhant)
