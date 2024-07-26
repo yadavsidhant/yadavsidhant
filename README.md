@@ -4,6 +4,8 @@
 
 I am an aspiring developer with a passion for Artificial Intelligence and Web3 technologies. I love exploring new technologies, building innovative projects, and contributing to the developer community.
 
+![Slideshow](path_to_your_gif.gif)
+
 ## 🌟 About Me
 
 - 🔭 I’m currently working on projects involving AI and Web3
@@ -15,6 +17,7 @@ I am an aspiring developer with a passion for Artificial Intelligence and Web3 t
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadavsidhant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadavsidhant/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SidhantKYadav)
 
 ## 🛠️ My Projects
 
@@ -61,3 +64,9 @@ Feel free to reach out if you'd like to discuss potential collaborations, share 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=yadavsidhant&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%" />
 </div>
+
+## 🎥 My YouTube Channel
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SidhantKYadav)
+
+Check out my [YouTube channel](https://www.youtube.com/@SidhantKYadav) where I share videos on AI, Web3, and other tech topics!
