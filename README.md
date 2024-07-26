@@ -4,7 +4,7 @@
 
 I am an aspiring developer with a passion for Artificial Intelligence and Web3 technologies. I love exploring new technologies, building innovative projects, and contributing to the developer community.
 
-![Slideshow](path_to_your_gif.gif)
+![Slideshow](https://i.postimg.cc/QNg6CcKb/ezgif-com-animated-gif-maker.gif)
 
 ## 🌟 About Me
 
